@@ -1,4 +1,13 @@
-- 👋 Hi, I’m Roman;
-- 👀 Highly motivated web-dev;
-- 🌱 Deeply into studying;
-- 📫 How to reach me - E: ohiienko.r@gmail.com;
+# Who am I?
+
+My name is Roman Ohiienko, a software engineer living in Europe. I have a little embeded sofwtware background and currently I'm working as a hardware engineer.
+
+In April 2023 I returned to my dream of becoming a software developer and fell in love with web sector. As a result of my efforts, the first major web application I developed was a time tracking app, taking into account the specifics of the company for which it was created.
+
+Currently, I work for a company while creating more apps.
+
+# What projects am I working for?
+
+Recently I have launched Bunny reminder - a desktop reminder app built using Electron JS. 
+
+Right now I'm polishing my Time Tracker App.  
