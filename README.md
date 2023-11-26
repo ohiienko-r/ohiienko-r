@@ -6,7 +6,7 @@ In April 2023 I returned to my dream of becoming a software developer and fell i
 
 Currently, I work for a company while creating more apps.
 
-# What projects am I working for?
+# What projects am I working on?
 
 Recently I have launched Bunny reminder - a desktop reminder app built using Electron JS. 
 
