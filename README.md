@@ -6,10 +6,4 @@ In April 2023 I returned to my dream of becoming a software developer and fell i
 
 Currently, I work for a company while creating more apps.
 
-# What projects am I working on?
-
-Recently I have launched Bunny reminder - a desktop reminder app built using Electron JS. 
-
-Right now I'm polishing my Time Tracker App.  
-
 <a href="https://freelancehunt.com/freelancer/romek_kowalski.html?from=shield&r=aOZrv" target="_blank"><img src="https://freelancehunt.com/shields/display/id/315603/type/reviews?style=flat&amp;lang=uk" alt="Freelancehunt — простий та чесний фриланс"></a>
