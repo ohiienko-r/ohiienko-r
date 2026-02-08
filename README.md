@@ -1,9 +1,26 @@
-# Who am I?
+# Hi, I'm Roman Ohiienko 👋
 
-My name is Roman Ohiienko, a software engineer living in Europe. I have a little embeded software background and currently I'm working as a hardware engineer.
+**Guardian of Clean Code and Smooth Scrolls**
 
-In April 2023 I returned to my dream of becoming a software developer and fell in love with web sector. As a result of my efforts, the first major web application I developed was a time tracking app, taking into account the specifics of the company for which it was created.
+I am a Full-Stack Web Developer with a knack for problem-solving and a collaborative spirit. I focus on transforming complex ideas into intuitive, user-focused digital experiences using modern frameworks.
 
-Currently, I work for a company while creating more apps.
+### 🛠 Tech Stack
+- **Frontend:** React, Next.js, React Native, TypeScript, SCSS, Framer Motion
+- **Backend:** Node.js, Express, NestJS, Supabase, Firebase
+- **Desktop/Tools:** Electron JS, Vite, Git, REST APIs
+
+### 🚀 Recent Work
+- **Coolstory App:** A SaaS platform for sharing news and updates via short-form video.
+- **My Ai Tarot:** A Telegram Mini App powered by OpenAI and NestJS.
+- **Dune Quiz:** An interactive, high-performance quiz app built with Framer Motion.
+
+### 💼 Career Highlights
+- **Web Developer** @ EDAMS Technology
+- **Full-Stack Developer** @ Coolstory Ltd.
+- **Former CTO** @ Mimprover
+- **Development Skills Coach** @ BUOY Studies
+
+---
+📫 **Let's connect!** [nam-ro.dev](https://www.nam-ro.dev/)
 
 <a href="https://freelancehunt.com/freelancer/romek_kowalski.html?from=shield&r=aOZrv" target="_blank"><img src="https://freelancehunt.com/shields/display/id/315603/type/reviews?style=flat&amp;lang=uk" alt="Freelancehunt — простий та чесний фриланс"></a>
