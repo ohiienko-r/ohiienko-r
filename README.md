@@ -5,7 +5,7 @@
 I am a Full-Stack Web Developer with a knack for problem-solving and a collaborative spirit. I focus on transforming complex ideas into intuitive, user-focused digital experiences using modern frameworks.
 
 ### 🛠 Tech Stack
-- **Frontend:** React, Next.js, React Native, TypeScript, SCSS, Framer Motion
+- **Frontend:** React, Next.js, React Native, Expo, TypeScript, SCSS, Framer Motion, Reanimated
 - **Backend:** Node.js, Express, NestJS, Supabase, Firebase
 - **Desktop/Tools:** Electron JS, Vite, Git, REST APIs
 
@@ -15,7 +15,7 @@ I am a Full-Stack Web Developer with a knack for problem-solving and a collabora
 - **Dune Quiz:** An interactive, high-performance quiz app built with Framer Motion.
 
 ### 💼 Career Highlights
-- **Web Developer** @ EDAMS Technology
+- **Software Developer** @ EDAMS Technology
 - **Full-Stack Developer** @ Coolstory Ltd.
 - **Former CTO** @ Mimprover
 - **Development Skills Coach** @ BUOY Studies
